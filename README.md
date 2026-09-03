@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm from São Paulo,Brazil graduated in Computer Science<br><br>- 🔭 I’m interested in Design UX/UI, Web Design and Front-End ...<br>- 📚 I’m always looking to learn something new ...<br>- ⚡ In my free time I like to watch animes,movies and listen music  ...</p>
+<p align="left">I'm from São Paulo,Brazil graduated in Computer Science<br><br>- 🔭 I’m interested in Data Analysis, AI, and Front-End ...<br>- 📚 I’m always looking to learn something new ...<br>- ⚡ In my free time I like to watch animes,movies and listen music  ...</p>
 
 ###
 
